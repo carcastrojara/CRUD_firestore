@@ -9,6 +9,9 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
+.env
+refined-algebra-279523-95e8285c7a17.json
+serviceAccountKey.json
 
 # macOS
 .DS_Store
